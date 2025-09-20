@@ -15,7 +15,11 @@ Python 3.10
 Gemini Pro model api key (Note: Ensure you have the necessary credentials and permissions to access the Gemini Pro API)
 Installation
 Clone the repository:
-########
+########   https://github.com/nitesh680/AI-RESUME-TRACKRE-for-job.git
+
+
+
+
 Install dependencies:
 pip install -r requirements.txt
 Set up Gemini Pro API credentials:
@@ -26,6 +30,8 @@ Create a file named .env in the project root directory.
 Add the following lines to .env:
 
 GOOGLE_API_KEY= "your_api_key"
+
+
 Usage
 Run the application:
 streamlit run app.py
@@ -40,9 +46,12 @@ Review the results, including the job description match, missing keywords, and p
 Contributing
 If you would like to contribute to this project, please follow these steps:
 
+
 Fork the repository.
 Create a new branch for your feature or bug fix.
 Make your changes and submit a pull request.
+
+
 License
 This project is licensed under the MIT License.
 
@@ -53,6 +62,7 @@ This project is licensed under the MIT License.
 Contact
 If you have any questions or issues, feel free to reach out to the maintainers:
 
-Maintainer: Prajwal Krishna Email: niteshhx@gmail.com 
+Maintainer: Nitesh kumar
+Email: niteshhx@gmail.com 
 
-Happy recruiting with Gemini Pro ATS!
+Happy recruiting with Gemini  ATS!
