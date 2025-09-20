@@ -15,7 +15,7 @@ Python 3.10
 Gemini Pro model api key (Note: Ensure you have the necessary credentials and permissions to access the Gemini Pro API)
 Installation
 Clone the repository:
-git clone https://github.com/praj2408/End-To-End-Resume-ATS-Tracking-LLM-Project-With-Google-Gemini-Pro/
+########
 Install dependencies:
 pip install -r requirements.txt
 Set up Gemini Pro API credentials:
